@@ -7,7 +7,7 @@ const { PieChart, Pie, Cell } = Recharts;
 const PieCharts = props => {
   const result = getMatchResultsPerTeam(props.team);
   let r3 = getMatchStats(props.team);
-  {console.log(r3.team1,"opopo")}
+
   const data = [
     { name: "Wins", value:result.won},
     { name: "Loses", value: result.lost },

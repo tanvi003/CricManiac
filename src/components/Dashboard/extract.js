@@ -6,7 +6,7 @@ const getMatchResultsPerTeam = team => {
   let bat = data.filter(ipl => ipl.season == team && ipl.toss_decision ==="bat");
  var won =field.length;
   var lost = bat.length;
-  console.log(won,"bitch");
+  
  
   return{won,lost}
 }  
@@ -61,7 +61,7 @@ const getStadiumStats = team => {
   if (stadiumStats[j].ground === data[i].venue && data[i].season == team) {
               stadiumStats[j].total++;
             }}}
-            console.log(stadiumStats,"tanvi")
+            
             return stadiumStats;
  
 }
@@ -100,7 +100,7 @@ const getWinningStats = team => {
                      }
                  }
                   }
-            console.log(teamStats,"tttt")
+       
             return teamStats;
  
 }

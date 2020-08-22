@@ -45,7 +45,7 @@ export default class Dashboard extends Component {
               changeTeamContext={this.setTeam}
             />
           </div>
-          {console.log(this.state.selectedTeam,"yyyyy")}
+     
           <Playground team={this.state.selectedTeam} />
         </div>
       </React.Fragment>

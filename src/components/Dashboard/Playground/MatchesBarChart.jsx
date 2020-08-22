@@ -6,7 +6,7 @@ const { BarChart, Bar, XAxis, YAxis, Tooltip } = Recharts;
 
 const BarCharts = props => {
   let result = getWinningStats(props.team);
-  {console.log(result,"koko")}
+ 
   return (
     <React.Fragment>
       <span

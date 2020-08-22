@@ -4,7 +4,7 @@ import { getMatchStats } from "../extract";
 
 const Cards = props => {
   const teamsList = getMatchStats(props.team);
-  {console.log(teamsList,"o9o")}
+
   return teamsList.map((item, i) => {
     if (props.activeTeam === item.teamName) {
       return (

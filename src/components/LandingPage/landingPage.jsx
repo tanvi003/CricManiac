@@ -3,10 +3,9 @@ import "./landingPage.css";
 import stHeader from "../../media/ipl.jpg";
 import Fade from "react-reveal";
 import { Link } from "react-router-dom";
-import { teams } from "../../data/extract";
+
 const LandingPage = () => {
-  const teamsList = teams();
-  {console.log(teamsList,"pp")}
+ 
   return (
 
     <section className="lp-sec">
