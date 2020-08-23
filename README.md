@@ -5,7 +5,7 @@ Vipul is a big fan of cricket but lately has lost all his interest in the game b
 
 Use the IPL data given below to create a web app (a dashboard using data visualizations/graphs) with interesting, out-of-the-box stats or trivia to get Vipul interested in the IPL.
 
-Data set that is taken into account is https://www.kaggle.com/saurav9786/indian-premier-league-match-analysis
+Data set that is taken into account is https://www.kaggle.com/saurav9786/indian-premier-league-match-analysis <br/>
 Website Link : https://ipltime.netlify.app/
 
 ## Setting up the structure of the project
