@@ -1,4 +1,4 @@
-# IPL DASHBOARD
+# IPL DASHBOARD :trophy:
 <h2 align="left">  Front End Challenge – IPL </h2>
 
 Vipul is a big fan of cricket but lately has lost all his interest in the game because of all the entertainment/noise surrounding it. He has never followed the IPL, but this year he's contemplating whether to follow the tournament or not. He has been reading interesting trivia about the IPL, but he hasn't found anything interesting yet.
